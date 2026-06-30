@@ -32,10 +32,4 @@ npm run dev
 - `src/components/`: contains reusable components like the navbar
 - `src/index.css`: contains the app styles
 
-## Notes for beginners
 
-- The app uses React Router for page navigation.
-- API calls are made using `axios`.
-- CSS is written in `src/index.css`.
-
-If you want, I can also add a short section about how to make your own new page in this app.
